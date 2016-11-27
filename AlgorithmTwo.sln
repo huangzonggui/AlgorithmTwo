@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmTwo", "AlgorithmTwo\AlgorithmTwo.vcxproj", "{AA901F59-4110-4C4F-9638-236517B22CEE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmThree", "..\AlgorithmThree\AlgorithmThree.vcxproj", "{ACADD270-EA83-46C7-BA66-534635AA4A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA901F59-4110-4C4F-9638-236517B22CEE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA901F59-4110-4C4F-9638-236517B22CEE}.Debug|Win32.Build.0 = Debug|Win32
+		{AA901F59-4110-4C4F-9638-236517B22CEE}.Release|Win32.ActiveCfg = Release|Win32
+		{AA901F59-4110-4C4F-9638-236517B22CEE}.Release|Win32.Build.0 = Release|Win32
+		{ACADD270-EA83-46C7-BA66-534635AA4A21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ACADD270-EA83-46C7-BA66-534635AA4A21}.Debug|Win32.Build.0 = Debug|Win32
+		{ACADD270-EA83-46C7-BA66-534635AA4A21}.Release|Win32.ActiveCfg = Release|Win32
+		{ACADD270-EA83-46C7-BA66-534635AA4A21}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
